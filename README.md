@@ -24,7 +24,9 @@ A utilização de linguagens algorítmicas pode se tornar interessante no proces
 
 Inclusive, existem vários projetos de linguagens algorítmicas com foco no aprendizado e desenvolvimento de técnicas de lógica para programação.
 
-No Brasil, uma destas linguagens em especial se destaca: trata-se do **Visualg**, ferramenta amplamente utilizada nas universidades brasileiras.
+No Brasil, uma destas linguagens em especial se destaca:
+
+* Trata-se do **Visualg**, ferramenta amplamente utilizada nas universidades brasileiras.
 
 <!-- Information -->
 ## &#8505; Informações
@@ -37,8 +39,8 @@ No Brasil, uma destas linguagens em especial se destaca: trata-se do **Visualg**
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-rep-alg-lin-alg-int-log-par-pro-com-bas?style=p&label=Estrelas&labelColor=f9e64f&color=008000 "Total de Estrelas")
 &nbsp;
-![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-rep-alg-lin-alg-log-par-pro-com-bas?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-rep-alg-lin-alg-int-log-par-pro-com-bas?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
 &nbsp;
-![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-rep-alg-lin-alg-int-par-pro-com-bas?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-rep-alg-lin-alg-int-log-par-pro-com-bas?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
 &nbsp;
 ![License](https://img.shields.io/github/license/Devsgeeknerd/cla-rep-alg-lin-alg-int-log-par-pro-com-bas?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
