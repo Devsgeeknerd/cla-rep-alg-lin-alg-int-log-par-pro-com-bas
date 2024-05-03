@@ -7,7 +7,7 @@ A linguagem algorítmica consiste na definição de uma pseudolinguagem de progr
 
 Por exemplo:
 
-```markdown
+```md
 Algoritmo "calculo_dobro"
 Var
   num : inteiro
@@ -31,7 +31,7 @@ No Brasil, uma destas linguagens em especial se destaca:
 <!-- Informações -->
 ## &#8505; Informações
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-rep-alg-lin-alg-int-log-par-pro-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-rep-alg-lin-alg-int-log-par-pro-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitante")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
